@@ -6,7 +6,7 @@
 
 This function is designed to efficiently capture cycle information in time series data. It's particularly useful for analyzing patterns and periodicity in datasets represented as a Series in Python.
 
-![Operation Logic of Cycle CaptureMethod]((https://github.com/Zion-tunan/Capture-Cycle-in-Time-Series-Data/blob/main/Figure/Figure%20S01.png))
+![Operation Logic of Cycle CaptureMethod](https://github.com/Zion-tunan/Capture-Cycle-in-Time-Series-Data/blob/main/Figure/Figure%20S01.png)
 
 ### Steps for Usage:
 
